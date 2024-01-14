@@ -457,8 +457,4 @@ while running:
         # press start => function game
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_s:
-<<<<<<< HEAD
                 game()
-=======
-                game()
->>>>>>> 50ea1227e448486a8a198fc5a8c9eb9a9bed3872
